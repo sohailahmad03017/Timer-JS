@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+#inputDiv{
+    width: 60%;
+    background-color: brown;
+    padding: 10px 0px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1.5em;
+}
+
+#timer{
+    margin: auto;
+    display: flex;
+    justify-content:space-evenly;
+    font-size: 4em;
+    width: 40%;
+}
+
+#timerLabels{
+    color: burlywood;
+    margin: auto;
+    display: flex;
+    justify-content:space-evenly;
+    font-size: 1.2em;
+    width: 48%;
+}
